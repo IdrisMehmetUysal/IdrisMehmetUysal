@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on interesting topics
 - 📫 How to reach me imuysal@outlook.com
-- 😄 Pronouns: --
-- ⚡ Fun fact: --
 
 <!---
 IdrisMehmetUysal/IdrisMehmetUysal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
